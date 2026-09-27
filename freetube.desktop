@@ -4,4 +4,4 @@ Terminal=false
 Exec=/opt/freetube/freetube-0.25.3-beta-amd64.AppImage
 Name=freetube
 Icon=freetube
-
+Categories=AudioVideo;Video;Network
